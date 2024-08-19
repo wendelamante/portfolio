@@ -55,7 +55,7 @@
                         <h1 class="text-white text-3xl font-extralight dark:text-darkcyan duration-300">HI, I'M</h1>
                         <h1 class="text-white text-6xl sm:text-7xl md:text-7xl lg:text-8xl font-black dark:text-darktext duration-300">WENDEL <br>AMANTE </h1>
                         <h1 class="text-white text-base md:text-xl lg:text-2xl tracking-widest my-3 font-extralight dark:text-darkcyan duration-300">CREATIVE <span class="typed"></span></h1>
-                        <a href="./public/images/wendel_resume.pdf" target=”_blank”>
+                        <a href="./public/images/wendel_cv.pdf" target=”_blank”>
                             <button class="bg-transparent text-white mt-3 py-2 px-4 border border-white rounded-md hover:scale-110 dark:border-darkcyan dark:text-darkcyan duration-300">
                                 Download CV
                             </button>
